@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=neu-k)
+<div style="display: flex;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=jolly" style="height: 12rem;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neu-k&theme=jolly" style="height: 12rem;">
+</div>
 
 <!--
 **neu-k/neu-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
