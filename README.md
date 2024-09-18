@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <div style="display: flex;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=jolly" style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neu-k&theme=jolly" style="width: 50%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=jolly" style="width: 96%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neu-k&theme=jolly&utcOffset=8" style="width: 48%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neu-k&theme=jolly" style="width: 48%;">
 </div>
 
 <!--
