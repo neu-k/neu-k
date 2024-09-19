@@ -1,16 +1,23 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neu-k&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neu-k&theme=nightowl)
-
-
-
-<!-- HTML version
 <div style="display: flex;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=nightowl" width="98%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neu-k&theme=nightowl&utcOffset=9" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neu-k&theme=nightowl" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neu-k&theme=nightowl" width="49%">
+  <img src="http://github-readme-stats.vercel.app/api/top-langs?username=neu-k&show_icons=true&locale=en&layout=compact&theme=nightowl" width="49%">
 </div>
--->
+
+<div hidden>
+  <script>
+    const imgElms = document.querySelectorAll("img");
+    const currentTime = new Date().getTime();
+  
+    imgElms.forEach(imgElm => {
+      const url = new URL(imgElm.src);
+      url.searchParams.set("timestamp", currentTime);
+      imgElm.src = url.toString();
+    });
+  </script>
+</div>
+
+
 
 
 <!--
