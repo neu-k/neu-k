@@ -1,5 +1,5 @@
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=nightowl" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neu-k&theme=nightowl" align="right">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=nightowl" align="right" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neu-k&theme=nightowl" align="right" width="40%">
 
 
 <!--
