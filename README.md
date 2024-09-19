@@ -1,4 +1,4 @@
-<div display="flex">
+<div style="display: flex; justify-content: space-between;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neu-k&theme=nightowl" width="42%">
   <img src="http://github-readme-stats.vercel.app/api/top-langs?username=neu-k&show_icons=true&locale=en&layout=compact&theme=nightowl" width="53%">
 </div>
