@@ -1,12 +1,5 @@
-<!--
-![](https://github-readme-stats.vercel.app/api/top-langs?username=neu-k&theme=material-palenight)
--->
-
-<div style="display: flex;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neu-k&theme=material-palenight" style="width: 49%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neu-k&theme=material-palenight&utcOffset=9" style="width: 49%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=material-palenight" style="width: 98%;">
-</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=nightowl" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neu-k&theme=nightowl" align="right">
 
 
 <!--
