@@ -4,19 +4,6 @@
   <img src="http://github-readme-stats.vercel.app/api/top-langs?username=neu-k&show_icons=true&locale=en&layout=compact&theme=nightowl" width="49%">
 </div>
 
-<div hidden>
-  <script>
-    const imgElms = document.querySelectorAll("img");
-    const currentTime = new Date().getTime();
-  
-    imgElms.forEach(imgElm => {
-      const url = new URL(imgElm.src);
-      url.searchParams.set("timestamp", currentTime);
-      imgElm.src = url.toString();
-    });
-  </script>
-</div>
-
 
 
 
