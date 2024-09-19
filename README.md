@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=nightowl" width="96%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neu-k&theme=nightowl" width="48%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neu-k&theme=nightowl" width="48%">
