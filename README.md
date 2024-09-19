@@ -1,8 +1,7 @@
-<div style="display: flex;" align="right">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neu-k&theme=nightowl&utcOffset=9" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neu-k&theme=nightowl" width="49%">
+<div display="flex">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neu-k&theme=nightowl" width="42%">
+  <img src="http://github-readme-stats.vercel.app/api/top-langs?username=neu-k&show_icons=true&locale=en&layout=compact&theme=nightowl" width="53%">
 </div>
-<img src="http://github-readme-stats.vercel.app/api/top-langs?username=neu-k&show_icons=true&locale=en&layout=compact&theme=nightowl" width="49%" align="right">
 
 
 
