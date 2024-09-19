@@ -1,8 +1,13 @@
+<!--
+![](https://github-readme-stats.vercel.app/api/top-langs?username=neu-k&theme=material-palenight)
+-->
+
 <div style="display: flex;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neu-k&theme=jolly" style="width: 49%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neu-k&theme=jolly&utcOffset=9" style="width: 49%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=jolly" style="width: 98%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neu-k&theme=material-palenight" style="width: 49%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neu-k&theme=material-palenight&utcOffset=9" style="width: 49%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=material-palenight" style="width: 98%;">
 </div>
+
 
 <!--
 **neu-k/neu-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
