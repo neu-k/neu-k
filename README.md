@@ -1,10 +1,9 @@
-<div style="justify-content: center;">
-  <div style="display: flex;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=nightowl" width="96%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neu-k&theme=nightowl" width="48%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neu-k&theme=nightowl" width="48%">
-  </div>
+<div style="display: flex;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neu-k&theme=nightowl" width="98%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neu-k&theme=nightowl" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neu-k&theme=nightowl" width="49%">
 </div>
+
 
 
 <!--
